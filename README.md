@@ -1,1 +1,1 @@
-# Documentation 📒 docu-myname
+# Documentation 📒 doc-myname
